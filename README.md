@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello! I'm Talha
 
-<!--
-**talha-ibna-jaman/Talha-Ibna-Jaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Leading University, Sylhet  
+💻 Currently learning: C Programming  
+🚀 Interested in: Software Development, Problem Solving ,  
+📫 Connect with me: talhaibnajaman01@gmail.com
 
-Here are some ideas to get you started:
+🛠️ Languages & Tools
+- C
+- Python
+- HTML 
+- VS Code
+- Git & GitHub (learning stage)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats (Optional Fancy Part)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talha-ibna-jaman_icons=true&theme=radical)
+
