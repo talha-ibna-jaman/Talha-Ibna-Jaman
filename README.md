@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Talha
 
 🎓 Computer Science Student at Leading University, Sylhet  
-💻 Learning core concepts of Computer Science 
+💻 Learning core concepts of Computer Science    
 🚀 Interested in: Software Development, Problem Solving ,  
 📫 Connect with me: talhaibnajaman01@gmail.com
 
