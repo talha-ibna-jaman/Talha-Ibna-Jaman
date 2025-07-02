@@ -1,16 +1,18 @@
 # 👋 Hello! I'm Talha
 
 🎓 Computer Science Student at Leading University, Sylhet  
-💻 Currently learning: C Programming  
+💻 Learning core concepts of Computer Science 
 🚀 Interested in: Software Development, Problem Solving ,  
 📫 Connect with me: talhaibnajaman01@gmail.com
 
 🛠️ Languages & Tools
 - C
+- c++
 - Python
+- DSA
 - HTML 
 - VS Code
-- Git & GitHub (learning stage)
+- Git & GitHub 
 
 ## 📈 GitHub Stats (Optional Fancy Part)
 
